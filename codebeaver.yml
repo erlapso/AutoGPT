@@ -1,0 +1,1 @@
+workspaces: [{'from': 'pytest', 'name': 'backend', 'path': 'autogpt_platform/backend'}]
